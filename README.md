@@ -1,1 +1,1 @@
-[闺蜜](http://htmlpreview.github.com/?https://ohmypan.github.io/canvas-special/love-time/index.html)
+[闺蜜](https://ohmypan.github.io/canvas-special/love-time/index.html)
